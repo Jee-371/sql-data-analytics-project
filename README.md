@@ -1,6 +1,6 @@
 # 🧠 Advanced Data Analytics
 
-This project delivers a full-stack **data analytics solution** using SQL to perform **Exploratory Data Analysis (EDA)**, **Advanced Trend & KPI Analysis**, and **Insightful Reporting** on a fictional sales dataset.
+This project delivers a full-stack **data analytics solution** using SQL to perform **Exploratory Data Analysis (EDA)**, **Advanced Trend & KPI Analysis**, and **Insightful Reporting** on a sales dataset.
 
 It is structured for modular development, enabling seamless database initialization, analytical processing, and report generation using clean SQL workflows.
 
