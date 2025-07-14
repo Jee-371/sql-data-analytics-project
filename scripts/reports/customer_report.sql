@@ -57,6 +57,7 @@ WITH base_query AS (
 		customer_name,
 		age
 )
+-- Final Query : Combine all customer results into one output
 SELECT
 	customer_key,
 	customer_number,
